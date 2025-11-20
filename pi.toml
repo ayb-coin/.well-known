@@ -1,0 +1,10 @@
+
+VERSION = "1.0.0"
+NETWORK = "Pi Testnet"
+
+[[CURRENCIES]]
+code="AYB"
+issuer="GAUIZK25ARVPCWCT3R44HEU23TSFKMFTF4WNSXMQWKKX4LOJFRWEBOSV"
+name="AyoubHub"
+desc="This is my first test token on Pi."
+image="https://ayoubhub.netlify.app/favicon.png"
